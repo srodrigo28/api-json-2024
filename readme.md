@@ -10,6 +10,7 @@
 #### config package.json
 "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    <br>
     "api": "npx json-server data.json",
     "api1": "npx nodemon data.json"
 },
