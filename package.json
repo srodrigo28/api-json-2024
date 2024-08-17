@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "api": "npx json-server data.json",
-    "api1": "npx nodemon data.json"
+    "nodemon": "npx nodemon data.json"
   },
   "keywords": [],
   "author": "",
