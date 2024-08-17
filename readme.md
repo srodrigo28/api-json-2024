@@ -13,7 +13,7 @@
     <br>
     "api": "npx json-server data.json",
     <br>
-    "api1": "npx nodemon data.json"
+    "nodemon": "npx nodemon data.json"
 },
 
 #### rodar o projeto
